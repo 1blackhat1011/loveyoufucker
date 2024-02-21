@@ -743,7 +743,7 @@ function iHeartYou(){
 	if(window.location.hash){
 		vtext.textContent = encryptString(decodeURIComponent(window.location.hash).substring(1));
 	}else{
-		vtext.textContent = "I LOVE YOU CEREN (DONT BREAK UP WITH ME BITCH) <3";
+		vtext.textContent = "yarragimi yalar misin <3";
 	}
 
 	setTimeout(function(){
